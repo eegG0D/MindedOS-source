@@ -1,3 +1,6 @@
+!![Application Screenshot](Screenshot 2026-06-30 065911.png)
+
+
 # mindedOS: The Programs Explained
 
 ## An Introduction to the Whole System
