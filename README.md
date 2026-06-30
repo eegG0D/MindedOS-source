@@ -1,4 +1,5 @@
-!![Application Screenshot](Screenshot 2026-06-30 065911.png)
+!![Application Screenshot](Capture2.PNG)
+
 
 
 # mindedOS: The Programs Explained
