@@ -1,4 +1,4 @@
-!![Application Screenshot](Capture2.PNG)
+![Application Screenshot](Capture2.PNG)
 
 
 
